@@ -7,7 +7,7 @@
     <ProjectGuid>{A76F0554-FFAD-4CFA-9E4A-77CC5A06C7CA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Mastermind.MsOffice</RootNamespace>
-    <AssemblyName>Excellinator</AssemblyName>
+    <AssemblyName>Speedy</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
